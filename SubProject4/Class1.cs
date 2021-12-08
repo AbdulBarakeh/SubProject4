@@ -1,5 +1,8 @@
-﻿namespace SubProject4;
-public class Class1
+﻿namespace SubProject4
 {
 
+    public class Class1
+    {
+
+    }
 }
