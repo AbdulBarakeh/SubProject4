@@ -8,6 +8,6 @@
 
         private string? ThisIsYourProp { get; set; }
         private string? NotYourProp { get; set; }
-        private string? NotYourProp { get; set; }
+        private string? NEEEIN { get; set; }
     }
 }
