@@ -13,7 +13,13 @@
         {
 
             ThisIsMyProp = "James Woods High School";
-            Console.WriteLine(ThisIsMyProp);
+            Console.WriteLine(ThisIsMyProp); 
+        }
+
+        public void Sub4()
+        {
+            Console.WriteLine(ThisIsMyProp+ " EXT");
+
         }
     }
 }
