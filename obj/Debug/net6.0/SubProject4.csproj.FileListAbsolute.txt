@@ -1,0 +1,12 @@
+C:\Users\aabd\Documents\Development_Test\MultiRepo\SubProject4\bin\Debug\net6.0\SubProject4.deps.json
+C:\Users\aabd\Documents\Development_Test\MultiRepo\SubProject4\bin\Debug\net6.0\SubProject4.dll
+C:\Users\aabd\Documents\Development_Test\MultiRepo\SubProject4\bin\Debug\net6.0\SubProject4.pdb
+C:\Users\aabd\Documents\Development_Test\MultiRepo\SubProject4\obj\Debug\net6.0\SubProject4.csproj.AssemblyReference.cache
+C:\Users\aabd\Documents\Development_Test\MultiRepo\SubProject4\obj\Debug\net6.0\SubProject4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aabd\Documents\Development_Test\MultiRepo\SubProject4\obj\Debug\net6.0\SubProject4.AssemblyInfoInputs.cache
+C:\Users\aabd\Documents\Development_Test\MultiRepo\SubProject4\obj\Debug\net6.0\SubProject4.AssemblyInfo.cs
+C:\Users\aabd\Documents\Development_Test\MultiRepo\SubProject4\obj\Debug\net6.0\SubProject4.csproj.CoreCompileInputs.cache
+C:\Users\aabd\Documents\Development_Test\MultiRepo\SubProject4\obj\Debug\net6.0\SubProject4.dll
+C:\Users\aabd\Documents\Development_Test\MultiRepo\SubProject4\obj\Debug\net6.0\refint\SubProject4.dll
+C:\Users\aabd\Documents\Development_Test\MultiRepo\SubProject4\obj\Debug\net6.0\SubProject4.pdb
+C:\Users\aabd\Documents\Development_Test\MultiRepo\SubProject4\obj\Debug\net6.0\ref\SubProject4.dll

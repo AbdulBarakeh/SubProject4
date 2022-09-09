@@ -9,5 +9,11 @@
         private string? ThisIsYourProp { get; set; }
         private string? NotYourProp { get; set; }
         private string? NEEEIN { get; set; }
+        public Class1()
+        {
+
+            ThisIsMyProp = "James Woods High School";
+            Console.WriteLine(ThisIsMyProp);
+        }
     }
 }
